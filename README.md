@@ -1,7 +1,7 @@
 # SocialBook
-SocialBool is frontend web page 
+SocialBook is frontend web page 
 <br>
- Features
+ Features:
 <br>
  This is Static website
  <br>
